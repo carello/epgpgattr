@@ -19,8 +19,11 @@ CREDENTIALS
 
 There is limited error checking in these scripts. 
 
+
+
 OTHER SCRIPTS
-- selvmos.py : Select operating system to get back a reports from vCTR
+- selvmos.py    : Select operating system to get back a VM report from vCTR.
+- acishowep.py  : Select EPG and get back a report from APIC of endpoints.
 
 
 
