@@ -5,7 +5,7 @@ SCRIPT OBJECTIVES
   then report from ACI VM's attached to EPG.
 
 WORKFLOW
-- User kicks off <script1>
+- User kicks off aci-sel-os-pg.py
 - Prompted to enter operating system type and name of portgroup that will be used to reconfigure the VMs.
 
 DEPENDENCIES
