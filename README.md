@@ -17,15 +17,13 @@ CREDENTIALS
 - Scripts use basic user/password that is embedded into the scripts for ease of testing. Recommend a more robust auth method.
 
 
-There is limited error checking in these scripts. 
-
-
 
 OTHER SCRIPTS
 - selvmos.py    : Select operating system to get back a VM report from vCTR.
 - acishowep.py  : Select EPG and get back a report from APIC of endpoints.
 
 
+There is limited error checking in these scripts. 
 
 
 
