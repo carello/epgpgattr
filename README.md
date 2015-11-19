@@ -1,8 +1,8 @@
 # epgpgattr
 
 SCRIPT OBJECTIVES
-Allows an administrator to find VM's based on Operating System Type, change the portgroup to something new,
-then report from ACI VM's attached to EPG.
+- Allows an administrator to find VM's based on Operating System Type, change the portgroup to something new,
+  then report from ACI VM's attached to EPG.
 
 WORKFLOW
 - User kicks off <script1>
