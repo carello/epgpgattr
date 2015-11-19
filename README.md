@@ -4,6 +4,8 @@ SCRIPT OBJECTIVES
 - Allows an administrator to find VM's based on Operating System Type, change the portgroup to something new,
   then report from ACI VM's attached to EPG.
 
+MAIN SCRIPT : aci-sel-os-pg.py
+
 WORKFLOW
 - User kicks off aci-sel-os-pg.py
 - Prompted to enter operating system type and name of portgroup that will be used to reconfigure the VMs.
@@ -16,6 +18,9 @@ CREDENTIALS
 
 
 There is limited error checking in these scripts. 
+
+OTHER SCRIPTS
+- selvmos.py : Select operating system to get back a reports from vCTR
 
 
 
