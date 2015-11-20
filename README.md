@@ -1,10 +1,10 @@
 # epgpgattr
 
+MAIN SCRIPT : aci-sel-os-pg.py
+
 SCRIPT OBJECTIVES
 - Allows an administrator to find VM's based on Operating System Type, change the portgroup to something new,
-  then report from ACI VM's attached to EPG.
-
-MAIN SCRIPT : aci-sel-os-pg.py
+  then report from ACI the VM's repsective EPG.
 
 WORKFLOW
 - User kicks off aci-sel-os-pg.py
