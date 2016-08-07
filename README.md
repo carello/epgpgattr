@@ -1,5 +1,7 @@
 # epgpgattr
 
+##### I created this script before Cisco had micro-segmentation capabilites in ACI. I'll probably depricate this script... However,  some fo the content might be useful for future apps.
+
 MAIN SCRIPT : aci-sel-os-pg.py
 
 SCRIPT OBJECTIVES
